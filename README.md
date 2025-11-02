@@ -39,7 +39,7 @@ This lab includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/kubernetes-observability-lab.git
+   git clone https://github.com/Staups/kubernetes-observability-lab.git
    cd kubernetes-observability-lab
    ```
 
