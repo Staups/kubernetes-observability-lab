@@ -43,7 +43,7 @@ This lab includes:
    cd kubernetes-observability-lab
    ```
 
-2. Follow the setup instructions in the `docs/setup.md` file to provision the lab environment.
+2. Follow the setup instructions in the [docs/setup.md](docs/setup.md) file to provision the lab environment.
 
 3. Deploy observability stack using provided Helm charts or manifests.
 
